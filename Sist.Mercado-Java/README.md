@@ -4,7 +4,10 @@
 
  Este projeto é um sistema simples desenvolvido utilizando **Java**. 
 
- ## Tabela de Conteúdos - [Instalação](#instalação) - [Configuração](#configuração) - [Contribuição](#contribuição) 
+ ## Tabela de Conteúdos
+ - [Instalação](#instalação) -
+ - [Configuração](#configuração) -
+ -  [Contribuição](#contribuição) 
 
  ## Instalação 1. Clone o repositório: 
  ```bash git clone https://github.com/pedrosoaresdev/sist.mercado-java ``` 
