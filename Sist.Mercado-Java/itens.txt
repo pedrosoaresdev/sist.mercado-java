@@ -1,0 +1,160 @@
+santa clara,4.19,alimentos
+nescafé,7.49,alimentos
+sabonete phebo,2.49,higiene1
+sabonete lux,3.59,higiene1
+desinfetante veja,8.59,higiene2
+água sanitária qboa,4.99,higiene2
+suco ades uva,5.99,alimentos
+creme dental colgate,4.69,higiene1
+arroz tio joão,7.19,alimentos
+feijão carioca,6.39,alimentos
+sabonete dove,3.89,higiene1
+sabonete granado,4.19,higiene1
+detergente ypê,2.29,higiene2
+desinfetante lysoform,6.99,higiene2
+óleo liza,5.59,alimentos
+amaciante comfort,8.99,higiene2
+sabão em pó omo,13.99,higiene2
+alho desidratado,3.49,alimentos
+macarrão instantâneo nissin,2.79,alimentos
+café pilão,8.29,alimentos
+sabonete nivea,5.99,higiene1
+pasta de dente sensodyne,9.99,higiene1
+pão de forma pullman,6.49,alimentos
+molho de tomate elefante,4.29,alimentos
+achocolatado nescau,7.99,alimentos
+leite condensado moça,4.89,alimentos
+shampoo head & shoulders,14.49,higiene1
+sabonete íntimo johnson’s,7.29,higiene1
+escova de dentes oral-b,5.59,higiene1
+desinfetante pinho sol,5.89,higiene2
+alvejante brilhante,5.99,higiene2
+macarrão barilla,7.59,alimentos
+biscoito passatempo,3.99,alimentos
+cereal kellogg's,9.79,alimentos
+sopa knorr,3.39,alimentos
+biscoito globo,1.99,alimentos
+chocolate lacta,5.69,alimentos
+refrigerante coca-cola,7.99,bebidas
+águas minerais cristal,3.49,bebidas
+suco del valle,6.19,bebidas
+pizza sadia,23.99,alimentos
+carne moída friboi,15.99,alimentos
+frango desfiado sadia,10.49,alimentos
+legumes congelados mccain,8.99,alimentos
+sorvete kibon,12.59,alimentos
+maionese hellmann’s,6.79,alimentos
+azeite de oliva andorinha,19.99,alimentos
+molho shoyu kikkoman,8.99,alimentos
+bolacha maria,2.19,alimentos
+refrigerante guaraná antártica,6.39,bebidas
+café melitta,6.79,alimentos
+suco maguari,4.89,bebidas
+picanha congelada,27.99,alimentos
+peito de frango sadia,10.99,alimentos
+ovos brancos,4.29,alimentos
+manteiga aviação,5.79,alimentos
+queijo mussarela,14.29,alimentos
+queijo prato,13.49,alimentos
+margarina qualy,4.79,alimentos
+maçã gala,7.99,alimentos
+pera,6.49,alimentos
+melancia,5.29,alimentos
+morango,8.99,alimentos
+abacaxi,6.19,alimentos
+banana,3.99,alimentos
+manga,7.29,alimentos
+alface,2.99,alimentos
+cenoura,3.69,alimentos
+tomate,5.49,alimentos
+pepino,2.79,alimentos
+cebola,3.49,alimentos
+batata,4.19,alimentos
+almeirão,2.69,alimentos
+couve-flor,5.99,alimentos
+brócolis,6.39,alimentos
+pimentão,4.59,alimentos
+espinafre,4.19,alimentos
+salsão,2.99,alimentos
+cogumelo,12.99,alimentos
+arroz parboilizado,5.99,alimentos
+arroz integral,6.49,alimentos
+feijão preto,5.69,alimentos
+feijão verde,7.19,alimentos
+lentilha,6.99,alimentos
+grão-de-bico,7.49,alimentos
+farofa,3.89,alimentos
+farina,2.69,alimentos
+fubá,2.49,alimentos
+polvilho,3.19,alimentos
+amendoim torrado,4.99,alimentos
+castanha de caju,18.99,alimentos
+amêndoas,21.49,alimentos
+nozes,22.99,alimentos
+macadâmia,25.49,alimentos
+pistache,26.99,alimentos
+granola,6.29,alimentos
+aveia,4.39,alimentos
+quinoa,10.99,alimentos
+milho verde,3.69,alimentos
+ervilha,4.29,alimentos
+frango congelado,9.99,alimentos
+peixe tilápia,17.49,alimentos
+carne de cordeiro,35.99,alimentos
+bife de alcatra,24.79,alimentos
+picanha nobre,29.99,alimentos
+contra-filé,22.59,alimentos
+costela de boi,18.79,alimentos
+linguiça toscana,13.59,alimentos
+linguiça de frango,10.99,alimentos
+bacon,12.49,alimentos
+calabresa,11.99,alimentos
+queijo minas frescal,11.29,alimentos
+queijo ricota,8.69,alimentos
+queijo parmesão,21.99,alimentos
+queijo gorgonzola,22.59,alimentos
+queijo cheddar,19.79,alimentos
+cream cheese,14.49,alimentos
+requeijão,7.99,alimentos
+manteiga com sal,6.49,alimentos
+creme de leite,4.99,alimentos
+leite em pó,15.99,alimentos
+iogurte natural,4.29,alimentos
+iogurte grego,6.19,alimentos
+pudim de leite condensado,3.99,alimentos
+gelatina,1.99,alimentos
+chocolate amargo,5.59,alimentos
+chocolate branco,6.29,alimentos
+chocolate ao leite,4.79,alimentos
+barrinha de cereal,2.99,alimentos
+bolacha recheada,4.59,alimentos
+salgadinho de milho,3.79,alimentos
+pipoca de micro-ondas,2.59,alimentos
+creme de avelã,6.99,alimentos
+pasta de amendoim,7.79,alimentos
+ketchup,4.29,alimentos
+mostarda,3.69,alimentos
+maionese,3.49,alimentos
+molho barbecue,5.49,alimentos
+tempero pronto,2.99,alimentos
+pimenta-do-reino,3.29,alimentos
+sal refinado,1.99,alimentos
+sal grosso,2.39,alimentos
+vinagre de maçã,3.59,alimentos
+azeite de soja,8.19,alimentos
+azeite de dendê,7.49,alimentos
+óleo de coco,16.99,alimentos
+óleo de milho,5.79,alimentos
+leite de coco,3.99,alimentos
+suco de laranja,5.39,alimentos
+água de coco,4.69,alimentos
+refrigerante fanta,6.19,bebidas
+refrigerante sprite,6.29,bebidas
+cerveja skol,2.99,bebidas
+cerveja brahma,3.49,bebidas
+cerveja heineken,5.49,bebidas
+vodka smirnoff,29.99,bebidas
+rum bacardi,33.99,bebidas
+vinho tinto,19.99,bebidas
+vinho branco,21.49,bebidas
+champanhe,49.99,bebidas
