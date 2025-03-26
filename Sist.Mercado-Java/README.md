@@ -5,15 +5,16 @@
  Este projeto é um sistema simples desenvolvido utilizando **Java**. 
 
  ## Tabela de Conteúdos
- - [Instalação](#instalação) -
- - [Configuração](#configuração) -
+ - [Instalação](#instalação)
+ - [Uso](#uso)
  -  [Contribuição](#contribuição) 
 
  ## Instalação 1. Clone o repositório: 
  ```bash git clone https://github.com/pedrosoaresdev/sist.mercado-java ``` 
 
- 2. Instale as dependências com Maven. 
- ## Uso 1. Inicie a aplicação com Maven. 
+##Uso
+ 1. Instale as dependências com Maven. 
+ 2. Inicie a aplicação com Maven. 
 
  ## Contribuição da comunidade JAVA Contribuições são bem-vindas!
 
