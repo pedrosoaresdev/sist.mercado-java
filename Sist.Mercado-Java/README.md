@@ -9,10 +9,10 @@
  - [Uso](#uso)
  -  [Contribuição](#contribuição) 
 
- ## Instalação 1. Clone o repositório: 
+## Instalação 1. Clone o repositório: 
  ```bash git clone https://github.com/pedrosoaresdev/sist.mercado-java ``` 
 
-##Uso
+## Uso
  1. Instale as dependências com Maven. 
  2. Inicie a aplicação com Maven. 
 
